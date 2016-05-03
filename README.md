@@ -17,3 +17,14 @@ Additional hint: Beware of spaces between your HTML attributes. Ideally, HTML at
 
 Good: `<a href="http://ajbroadhurst.com">`
 Beware: `<a href = "http://ajbroadhurst.com">`
+
+## Milestone 2a Feedback
+Excellent work! Your site map, content strategy, interaction flow and wireframes are all well defined, and should serve you well as a guide for your development phase.
+
+The layouts you've designed in your wireframes will be a breeze using Bootstrap, which we will cover later this week. I also like your plan for a side-drawer menu. I think I have some sample code in a toy project available for you to take a look at. (I'll dig it up.) There are many available 3rd party plugins and examples out there for drawer menus to draw from as well. (Make sure they are Bootstrap friendly)
+
+A 3rd party gallery/portfolio plugin that students have had success with in the past is [Swipebox](http://brutaldesign.github.io/swipebox/). I recommend it because it works very well on mobile.
+
+++ for your page names :-)
+
+Your HTML is perfect. Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are clear to begin development on your PWP. Awesome job.
