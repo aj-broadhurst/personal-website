@@ -42,7 +42,7 @@
 		<script src="sidebar.js"></script>
 
 
-		<title>Stats</title>
+		<title>Main Menu</title>
 	</head>
 
 	<body class="sfooter">
