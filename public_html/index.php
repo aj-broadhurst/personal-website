@@ -24,8 +24,8 @@
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/loader.gif"/>
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="../style.css" type="text/css">
-		<link rel="stylesheet" href="../sidebar.css" type="text/css">
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<link rel="stylesheet" href="sidebar.css" type="text/css">
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -48,7 +48,7 @@
 				  crossorigin="anonymous"></script>
 
 		<!-- own JavaScript -->
-		<script src="../sidebar.js"></script>
+		<script src="sidebar.js"></script>
 
 
 		<title>Main Menu</title>
@@ -66,13 +66,13 @@
 						</a>
 					</li>
 					<li>
-						<a href="#">Main Menu</a>
+						<a href="index.php">Main Menu</a>
 					</li>
 					<li>
-						<a href="#">Stats</a>
+						<a href="stats/index.php">Stats</a>
 					</li>
 					<li>
-						<a href="#">Adventures</a>
+						<a href="adventures/index.php">Adventures</a>
 					</li>
 				</ul>
 			</nav>

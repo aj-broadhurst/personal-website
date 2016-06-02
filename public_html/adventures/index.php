@@ -66,13 +66,13 @@
 						</a>
 					</li>
 					<li>
-						<a href="#">Main Menu</a>
+						<a href="../index.php">Main Menu</a>
 					</li>
 					<li>
-						<a href="#">Stats</a>
+						<a href="../stats/index.php">Stats</a>
 					</li>
 					<li>
-						<a href="#">Adventures</a>
+						<a href="../adventures/index.php">Adventures</a>
 					</li>
 				</ul>
 			</nav>
