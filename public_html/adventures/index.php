@@ -5,17 +5,23 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-		<!-- Latest compiled and minified CSS -->
+		<!-- Latest compiled and minified Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
 				integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-		<!-- Optional theme -->
+		<!-- Optional  Bootstrap theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
 				integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
 				crossorigin="anonymous"/>
 
 		<!-- Font Awesome Icons -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+
+		<!--Minified Swipebox CSS, Icons, etc CDN -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/css/swipebox.min.css"/>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/icons.png"/>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/icons.svg"/>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/loader.gif"/>
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="../style.css" type="text/css">
@@ -31,6 +37,9 @@
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"
 				  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+
+		<!-- Swipebox jQuery -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/js/jquery.swipebox.min.js"></script>
 
 
 		<!-- Latest compiled and minified JavaScript -->
