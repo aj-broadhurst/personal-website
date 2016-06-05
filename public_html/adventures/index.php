@@ -60,6 +60,7 @@
 
 		<!-- own JavaScript -->
 		<script src="../js/sidebar.js"></script>
+		<script src="../js/javascript.js"></script>
 
 
 		<title>Adventures</title>
@@ -113,11 +114,18 @@
 								</div>
 							</div>
 						</section>
-						<section id="Hook">
+						<section id="Portfolio">
 							<div class="container">
 								<div class="row">
 									<div class="col-xs-12">
-										<p>Portfolio slideshow/blurb go here. </p>
+										<div class="gallery">
+											<a href="http://placekitten.com/300/200" class="swipebox" title="how long can the caption be-asknfearignaoflakergineslfknginaafegoieanrkfaineroginealfoeingoerinaskfneroginaeoginasfkeorginea">
+												<img src="http://placekitten.com/300/200" alt="image">
+											</a>
+											<a href="http://placekitten.com/300/200" class="swipebox" title="My Caption">
+												<img src="http://placekitten.com/300/200" alt="image">
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>

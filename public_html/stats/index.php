@@ -60,6 +60,7 @@
 
 		<!-- own JavaScript -->
 		<script src="../js/sidebar.js"></script>
+		<script src="../js/javascript.js"></script>
 
 
 		<title>Stats</title>

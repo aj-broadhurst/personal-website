@@ -1,3 +1,25 @@
+body {
+	background-image:url(../images/dark_wood.png);
+	background-size:cover;
+	background-attachment:fixed;
+	color: #d7d7d7;
+}
+
+
+footer{
+	color: #a9a9a9;
+}
+
+.well {
+	background: rgba(124, 138, 148, 0.64);
+}
+
+.jumbotron {
+	background: rgba(0, 0, 0, 0.8);
+	color: #ffffff;
+}
+
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
