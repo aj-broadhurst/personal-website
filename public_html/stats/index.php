@@ -24,8 +24,8 @@
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/loader.gif"/>
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="../style.css" type="text/css">
-		<link rel="stylesheet" href="../sidebar.css" type="text/css">
+		<link rel="stylesheet" href="../css/style.css" type="text/css">
+		<link rel="stylesheet" href="../css/sidebar.css" type="text/css">
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -59,7 +59,7 @@
 				  crossorigin="anonymous"></script>
 
 		<!-- own JavaScript -->
-		<script src="../sidebar.js"></script>
+		<script src="../js/sidebar.js"></script>
 
 
 		<title>Stats</title>
@@ -175,7 +175,7 @@
 									<div class="col-xs-12">
 										<div class="well">
 											<!--Begin Contact Form-->
-											<form id="contact-form" action="php/mailer.php" method="post">
+											<form id="contact-form" action="../php/email.php" method="post">
 												<div class="form-group">
 													<label for="name">Name <span class="text-danger">*</span></label>
 													<div class="input-group">
@@ -214,7 +214,7 @@
 												</div>
 
 												<!-- reCAPTCHA -->
-												<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+												<div class="g-recaptcha" data-sitekey="6Lew0iETAAAAAGgHmqOWEWSJrFqNtmzgM5FS_rDc"></div>
 
 												<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 												<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
