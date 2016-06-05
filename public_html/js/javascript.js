@@ -1,3 +1,3 @@
-$(document).ready(function () {
-	$( '.swipebox' ).swipebox();
-});
+// $(document).ready(function () {
+// 	$( '.swipebox' ).swipebox();
+// });

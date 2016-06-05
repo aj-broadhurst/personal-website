@@ -17,12 +17,6 @@
 		<!-- Font Awesome Icons -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
 
-		<!--Minified Swipebox CSS, Icons, etc CDN -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/css/swipebox.min.css"/>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/icons.png"/>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/icons.svg"/>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/loader.gif"/>
-
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="../css/style.css" type="text/css">
 		<link rel="stylesheet" href="../css/sidebar.css" type="text/css">
@@ -37,9 +31,7 @@
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"
 				  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-
-		<!-- Swipebox jQuery -->
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/js/jquery.swipebox.min.js"></script>
+		
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
@@ -118,12 +110,45 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-xs-12">
-										<div class="gallery">
-											<a href="http://placekitten.com/300/200" class="swipebox" title="how long can the caption be-asknfearignaoflakergineslfknginaafegoieanrkfaineroginealfoeingoerinaskfneroginaeoginasfkeorginea">
-												<img src="http://placekitten.com/300/200" alt="image">
+										<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
+											<!-- Indicators -->
+											<ol class="carousel-indicators">
+												<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+												<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+												<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+											</ol>
+
+											<!-- Wrapper for slides -->
+											<div class="carousel-inner" role="listbox">
+												<div class="item active">
+													<img src="http://placekitten.com/300/200" alt="...">
+													<div class="carousel-caption">
+														<p>Capstone will go here</p>
+													</div>
+												</div>
+												<div class="item">
+													<img src="http://placekitten.com/500/400" alt="...">
+													<div class="carousel-caption">
+														<p>Writing sample will go here</p>
+														<p><a class="btn btn-sm btn-primary" href="#" role="button">a button</a></p>
+													</div>
+												</div>
+												<div class="item">
+													<img src="http://placekitten.com/300/200" alt="...">
+													<div class="carousel-caption">
+														<p>Nanotransit will go here</p>
+														<p><a class="btn btn-sm btn-primary" href="#" role="button">link to trailer</a>     <a class="btn btn-sm btn-primary" href="#" role="button">link to download</a></p>
+													</div>
+											</div>
+
+											<!-- Controls -->
+											<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+												<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+												<span class="sr-only">Previous</span>
 											</a>
-											<a href="http://placekitten.com/300/200" class="swipebox" title="My Caption">
-												<img src="http://placekitten.com/300/200" alt="image">
+											<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+												<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+												<span class="sr-only">Next</span>
 											</a>
 										</div>
 									</div>

@@ -17,11 +17,6 @@
 		<!-- Font Awesome Icons -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
 
-		<!--Minified Swipebox CSS, Icons, etc CDN -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/css/swipebox.min.css"/>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/icons.png"/>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/icons.svg"/>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/img/loader.gif"/>
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="../css/style.css" type="text/css">
@@ -37,9 +32,7 @@
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"
 				  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-
-		<!-- Swipebox jQuery -->
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/js/jquery.swipebox.min.js"></script>
+		
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
