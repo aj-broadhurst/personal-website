@@ -100,7 +100,7 @@
 								<div class="row">
 									<div class="col-xs-12">
 										<div class="jumbotron text-center">
-											<h1>Title Banner</h1>
+											<h1>Stats</h1>
 											<p>Welcome Text</p>
 										</div>
 									</div>

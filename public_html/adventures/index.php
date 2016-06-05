@@ -100,7 +100,13 @@
 									<div class="col-xs-12">
 										<div class="jumbotron text-center">
 											<h1>Adventures</h1>
-											<p>This is the portfolio page</p>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="well text-center">
+											<p>Here you can find a portfolio containing works of notable significance.  See a selection from my web development portfolio, writing samples--both technical and creative, as well as other side projects.  These side projects may include anything else I find noteworthy, including game development projects, or other creative efforts.</p>
 										</div>
 									</div>
 								</div>
@@ -134,7 +140,7 @@
 													</div>
 												</div>
 												<div class="item">
-													<img src="http://placekitten.com/300/200" alt="...">
+													<img src="http://placekitten.com/700/600" alt="...">
 													<div class="carousel-caption">
 														<p>Nanotransit will go here</p>
 														<p><a class="btn btn-sm btn-primary" href="#" role="button">link to trailer</a>     <a class="btn btn-sm btn-primary" href="#" role="button">link to download</a></p>
