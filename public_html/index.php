@@ -62,8 +62,8 @@
 		<div id="wrapper">
 			<div class="overlay"></div>
 			<!-- Sidebar -->
-			<nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
-				<ul class="nav sidebar-nav">
+			<div id="sidebar-wrapper">
+				<ul class="sidebar-nav">
 					<li class="sidebar-brand">
 						<a href="#">
 							Logo
@@ -79,16 +79,18 @@
 						<a href="adventures/index.php">Adventures</a>
 					</li>
 				</ul>
-			</nav>
+				<div id="social-media">
+					<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+					<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+				</div>
+			</div>
+
 			<!-- /#sidebar-wrapper -->
 
 			<!-- Page Content -->
 			<div id="page-content-wrapper">
-				<button type="button" class="hamburger is-closed" data-toggle="offcanvas">
-					<span class="hamb-top"></span>
-					<span class="hamb-middle"></span>
-					<span class="hamb-bottom"></span>
-				</button>
+				<i class="fa fa-bars fa-2x" aria-hidden="true" href="#menu-toggle" id="menu-toggle"></i>
+<!--				<a href="#menu-toggle" class="btn btn-default" id="menu-toggle">X</a>-->
 				<div class="sfooter-content">
 					<header>
 
@@ -100,7 +102,7 @@
 									<div class="col-xs-12">
 										<div class="jumbotron text-center">
 											<h1>Welcome!</h1>
-											<p>Welcome Text</p>
+											<p>Personal Website of Alicia J. Broadhurst</p>
 										</div>
 									</div>
 								</div>
@@ -111,14 +113,7 @@
 								<div class="row">
 									<div class="col-xs-12">
 										<div class="well text-center">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum faucibus
-												diam, a sodales dolor volutpat molestie. Aliquam mattis lorem bibendum interdum
-												maximus. Nullam cursus urna mauris, semper ultricies nulla accumsan at. Sed id
-												commodo urna, nec placerat elit. In sem sapien, faucibus convallis neque a,
-												sollicitudin scelerisque nulla. Mauris lobortis nulla mattis, euismod lorem id,
-												viverra diam. Integer non dui ac ipsum ultricies euismod. Mauris id quam metus.
-												Maecenas a scelerisque magna. Nam quis quam sit amet dui facilisis rhoncus sed non
-												purus. Aenean euismod maximus nibh sit amet semper. </p>
+											<p>Welcome to my personal website! This website is aimed at those interested in learning more about me in the professional sense. You will be able to find more details about my background, as well as my past projects on the pages accessible from the sidebar. </p>
 										</div>
 									</div>
 								</div>
@@ -129,26 +124,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="well">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum faucibus
-												diam, a sodales dolor volutpat molestie. Aliquam mattis lorem bibendum interdum
-												maximus. Nullam cursus urna mauris, semper ultricies nulla accumsan at. Sed id
-												commodo urna, nec placerat elit. In sem sapien, faucibus convallis neque a,
-												sollicitudin scelerisque nulla. Mauris lobortis nulla mattis, euismod lorem id,
-												viverra diam. Integer non dui ac ipsum ultricies euismod. Mauris id quam metus.
-												Maecenas a scelerisque magna. Nam quis quam sit amet dui facilisis rhoncus sed non
-												purus. Aenean euismod maximus nibh sit amet semper.</p>
+											<p>elevator speech</p>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="well">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum faucibus
-												diam, a sodales dolor volutpat molestie. Aliquam mattis lorem bibendum interdum
-												maximus. Nullam cursus urna mauris, semper ultricies nulla accumsan at. Sed id
-												commodo urna, nec placerat elit. In sem sapien, faucibus convallis neque a,
-												sollicitudin scelerisque nulla. Mauris lobortis nulla mattis, euismod lorem id,
-												viverra diam. Integer non dui ac ipsum ultricies euismod. Mauris id quam metus.
-												Maecenas a scelerisque magna. Nam quis quam sit amet dui facilisis rhoncus sed non
-												purus. Aenean euismod maximus nibh sit amet semper. </p>
+											<p>For my portfolio, click Adventures! This will take you to a gallery displaying the very best of my professional and personal side projects. There you will be able to find selections from my web development endeavors, not to mention other examples of what I do best. All of my adventures are kept up-to-date and display the wide variety of my skillset.</p>
 										</div>
 									</div>
 								</div>

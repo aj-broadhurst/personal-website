@@ -63,8 +63,8 @@
 		<div id="wrapper">
 			<div class="overlay"></div>
 			<!-- Sidebar -->
-			<nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
-				<ul class="nav sidebar-nav">
+			<div id="sidebar-wrapper">
+				<ul class="sidebar-nav">
 					<li class="sidebar-brand">
 						<a href="#">
 							Logo
@@ -74,22 +74,20 @@
 						<a href="../index.php">Main Menu</a>
 					</li>
 					<li>
-						<a href="../stats/index.php">Stats</a>
+						<a href="index.php">Stats</a>
 					</li>
 					<li>
 						<a href="../adventures/index.php">Adventures</a>
 					</li>
 				</ul>
-			</nav>
+			</div>
+
 			<!-- /#sidebar-wrapper -->
 
 			<!-- Page Content -->
 			<div id="page-content-wrapper">
-				<button type="button" class="hamburger is-closed" data-toggle="offcanvas">
-					<span class="hamb-top"></span>
-					<span class="hamb-middle"></span>
-					<span class="hamb-bottom"></span>
-				</button>
+				<i class="fa fa-bars fa-2x" aria-hidden="true" href="#menu-toggle" id="menu-toggle"></i>
+<!--				<a href="#menu-toggle" class="btn btn-default" id="menu-toggle">X</a>-->
 				<div class="sfooter-content">
 					<header>
 

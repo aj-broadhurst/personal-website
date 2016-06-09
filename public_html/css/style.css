@@ -19,6 +19,12 @@ footer{
 	color: #ffffff;
 }
 
+#social-media {
+	position: absolute;
+	top: 70rem;
+	right: 10rem;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
