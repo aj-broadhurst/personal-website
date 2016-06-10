@@ -63,25 +63,31 @@
 			<div class="overlay"></div>
 			<!-- Sidebar -->
 			<div id="sidebar-wrapper">
-				<ul class="sidebar-nav">
-					<li class="sidebar-brand">
-						<a href="#">
-							Logo
-						</a>
-					</li>
-					<li>
-						<a href="index.php">Main Menu</a>
-					</li>
-					<li>
-						<a href="stats/index.php">Stats</a>
-					</li>
-					<li>
-						<a href="adventures/index.php">Adventures</a>
-					</li>
-				</ul>
-				<div id="social-media">
-					<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-					<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+				<div class="flex">
+					<div id="nav-list">
+						<ul class="sidebar-nav">
+							<li class="sidebar-brand">
+								<a href="index.php">
+									<strong>AJB</strong>
+								</a>
+							</li>
+							<li>
+								<a href="index.php">Main Menu</a>
+							</li>
+							<li>
+								<a href="stats/index.php">Stats</a>
+							</li>
+							<li>
+								<a href="adventures/index.php">Adventures</a>
+							</li>
+						</ul>
+					</div>
+					<div class="social-media-flex text-center">
+						<div id="social-media">
+							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+						</div>
+					</div>
 				</div>
 			</div>
 
@@ -124,7 +130,7 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="well">
-											<p>elevator speech</p>
+											<p>Extremely adaptable with a very diverse background and skillset, I can take on projects with ease.  Unfamiliar technology or situation? No problem! I am quick on my feet, and rapidly learn whatever is required of me. My previous experiences demonstrate that strength of that ability. My creative thinking means I can attack projects from alternate angles, and with the persistence to see them through to the end, I always find a solution.</p>
 										</div>
 									</div>
 									<div class="col-md-6">

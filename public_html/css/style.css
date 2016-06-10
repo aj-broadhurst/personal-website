@@ -19,11 +19,16 @@ footer{
 	color: #ffffff;
 }
 
-#social-media {
-	position: absolute;
-	top: 70rem;
-	right: 10rem;
-}
+
+/*.flex {*/
+	/*display: flex;*/
+	/*flex-direction: column;*/
+	/*min-height: 100vh;*/
+/*}*/
+
+/*#nav-list {*/
+	/*flex: 1 0 auto;*/
+/*}*/
 
 
 /* CUSTOMIZE THE CAROUSEL

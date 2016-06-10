@@ -66,9 +66,7 @@
 			<div id="sidebar-wrapper">
 				<ul class="sidebar-nav">
 					<li class="sidebar-brand">
-						<a href="#">
-							Logo
-						</a>
+						<a href="../index.php"><strong>AJB</strong></a>
 					</li>
 					<li>
 						<a href="../index.php">Main Menu</a>
@@ -99,7 +97,7 @@
 									<div class="col-xs-12">
 										<div class="jumbotron text-center">
 											<h1>Stats</h1>
-											<p>Welcome Text</p>
+											<p>About Me</p>
 										</div>
 									</div>
 								</div>
@@ -110,14 +108,7 @@
 								<div class="row">
 									<div class="col-xs-12">
 										<div class="well text-center">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum faucibus
-												diam, a sodales dolor volutpat molestie. Aliquam mattis lorem bibendum interdum
-												maximus. Nullam cursus urna mauris, semper ultricies nulla accumsan at. Sed id
-												commodo urna, nec placerat elit. In sem sapien, faucibus convallis neque a,
-												sollicitudin scelerisque nulla. Mauris lobortis nulla mattis, euismod lorem id,
-												viverra diam. Integer non dui ac ipsum ultricies euismod. Mauris id quam metus.
-												Maecenas a scelerisque magna. Nam quis quam sit amet dui facilisis rhoncus sed non
-												purus. Aenean euismod maximus nibh sit amet semper. </p>
+											<p>Here is where you can learn more about my background and skillset. This page contains a summary of my experience and education.  In short, the best of my professional side distilled down into easy reading. </p>
 										</div>
 									</div>
 								</div>
@@ -155,7 +146,7 @@
 									<div class="col-xs-12">
 										<div class="well text-center">
 											<p>It's dangerous to go alone! Take this!</p>
-											<p>LINK TO RESUME HERE</p>
+											<p><a class="btn btn-sm btn-primary" href="https://drive.google.com/file/d/0B7mhEra8UYIWemVMRHA5X3R4YU0/view?usp=sharing" role="button">Resume</a></p>
 										</div>
 									</div>
 								</div>

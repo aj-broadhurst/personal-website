@@ -65,9 +65,7 @@
 			<div id="sidebar-wrapper">
 				<ul class="sidebar-nav">
 					<li class="sidebar-brand">
-						<a href="#">
-							Logo
-						</a>
+						<a href="../index.php"><strong>AJB</strong></a>
 					</li>
 					<li>
 						<a href="../index.php">Main Menu</a>
