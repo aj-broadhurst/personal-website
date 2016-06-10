@@ -125,14 +125,8 @@
 									</div>
 									<div class="col-md-6">
 										<div class="well">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum faucibus
-												diam, a sodales dolor volutpat molestie. Aliquam mattis lorem bibendum interdum
-												maximus. Nullam cursus urna mauris, semper ultricies nulla accumsan at. Sed id
-												commodo urna, nec placerat elit. In sem sapien, faucibus convallis neque a,
-												sollicitudin scelerisque nulla. Mauris lobortis nulla mattis, euismod lorem id,
-												viverra diam. Integer non dui ac ipsum ultricies euismod. Mauris id quam metus.
-												Maecenas a scelerisque magna. Nam quis quam sit amet dui facilisis rhoncus sed non
-												purus. Aenean euismod maximus nibh sit amet semper. </p>
+											<p>My experiential background is also strong. I have experience in many different areas. When I was a volunteer at UNM, I was able to learn biological laboratory processes, such as DNA Extraction, PCR, and gel electrophoresis.  I have also worked in more technical environments.  During my internship at Ideum, I became familiar with QA processes, as well as furthered my technical troubleshooting skills.  </p>
+											<p>Being a member, as well as administrator for Intersection Games also provided more technical experience..</p>
 										</div>
 									</div>
 								</div>
@@ -153,7 +147,7 @@
 										<div class="well">
 											<h1>Contact me!</h1>
 											<!--Begin Contact Form-->
-											<form id="contact-form" action="../php/email.php" method="post">
+											<form id="contact-form" action="../php/mailer.php" method="post">
 												<div class="form-group">
 													<label for="name">Name <span class="text-danger">*</span></label>
 													<div class="input-group">
