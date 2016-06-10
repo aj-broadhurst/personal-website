@@ -130,7 +130,7 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="well">
-											<p>Extremely adaptable with a very diverse background and skillset, I can take on projects with ease.  Unfamiliar technology or situation? No problem! I am quick on my feet, and rapidly learn whatever is required of me. My previous experiences demonstrate that strength of that ability. My creative thinking means I can attack projects from alternate angles, and with the persistence to see them through to the end, I always find a solution.</p>
+											<p>To learn more about me, click Stats! But in short, I'm extremely adaptable with a very diverse background and skillset; I can take on varied projects with ease.  Unfamiliar technology or situation? No problem! I am quick on my feet, and rapidly learn whatever is required of me. My previous experiences demonstrate that strength of that ability. My creative thinking means I can attack projects from alternate angles, and with the persistence to see them through to the end, I always find a solution.</p>
 										</div>
 									</div>
 									<div class="col-md-6">
