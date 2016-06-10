@@ -1,4 +1,7 @@
-$('document').ready(function() {
+//Adaptable carousel code gotten from https://coderwall.com/p/uf2pka/normalize-twitter-bootstrap-carousel-slide-heights
+//Authored by Eddie Staples
+
+$(document).ready(function() {
 	carouselNormalization();
 });
 
