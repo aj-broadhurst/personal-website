@@ -143,6 +143,8 @@
 						<div class="copyright text-center">
 							<a href="https://www.linkedin.com/in/aliciabroadhurst"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
 							<a href="https://twitter.com/aj_broadhurst"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
+							<a href="https://github.com/aj-broadhurst"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a>
+							</a>
 							<br>
 							&copy; AJ Broadhurst 2016
 						</div>
