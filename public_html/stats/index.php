@@ -119,14 +119,8 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="well">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum faucibus
-												diam, a sodales dolor volutpat molestie. Aliquam mattis lorem bibendum interdum
-												maximus. Nullam cursus urna mauris, semper ultricies nulla accumsan at. Sed id
-												commodo urna, nec placerat elit. In sem sapien, faucibus convallis neque a,
-												sollicitudin scelerisque nulla. Mauris lobortis nulla mattis, euismod lorem id,
-												viverra diam. Integer non dui ac ipsum ultricies euismod. Mauris id quam metus.
-												Maecenas a scelerisque magna. Nam quis quam sit amet dui facilisis rhoncus sed non
-												purus. Aenean euismod maximus nibh sit amet semper.</p>
+											<p>With two degrees from the University of New Mexico, graduating with honors both times, I have a very strong academic background. The combined background in both the humanities, and the sciences leaves me very well-rounded in terms of general knowledge, and academic experiences.  I have presented papers at colloquiums, and attended numerous creative Critiques, as well as traveled abroad to perform fieldwork, and volunteered on campus in order to gain hands-on laboratory experience.</p>
+											<p>To further strengthen my skillset and resume, I attended the Spring 2016 CNM STEMulus Center Deep Dive Coding Bootcamp.  Learning full-stack web development in an immersive, intense 10-week program provided further life experience, and more exposure to development environments</p>
 										</div>
 									</div>
 									<div class="col-md-6">
@@ -157,6 +151,7 @@
 								<div class="row">
 									<div class="col-xs-12">
 										<div class="well">
+											<h1>Contact me!</h1>
 											<!--Begin Contact Form-->
 											<form id="contact-form" action="../php/email.php" method="post">
 												<div class="form-group">
@@ -220,8 +215,8 @@
 				<footer>
 					<div class="container">
 						<div class="copyright text-center">
-							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+							<a href="https://www.linkedin.com/in/aliciabroadhurst"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+							<a href="https://twitter.com/aj_broadhurst"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
 							<br>
 							&copy; AJ Broadhurst 2016
 						</div>

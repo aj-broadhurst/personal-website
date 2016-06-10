@@ -125,20 +125,20 @@
 												<div class="item active">
 													<img src="http://placekitten.com/960/720" alt="...">
 													<div class="carousel-caption">
-														<p>This is the Capstone Project I worked on at Deep Dive Coding Bootcamp. 'BrewCrew' (Working Title) is a web application that allows users to review beers from local breweries, and then get personalized recommendations based on their rating and review history.</p>
+														<p>PLACEHOLDER IMAGE. This is the Capstone Project I worked on at Deep Dive Coding Bootcamp. "BrewCrew" (Working Title) is a web application that allows users to review beers from local breweries, and then get personalized recommendations based on their rating and review history.</p>
 													</div>
 												</div>
 												<div class="item">
 													<img src="../images/paperStack.jpg" alt="Writing Portfolio">
 													<div class="carousel-caption">
-														<p>Writing sample will go here</p>
+														<p>Below contains links to selections from my writing portfolio. For creative efforts, click on 'Creative'. For writing of a more technical style, click on 'Technical'.</p>
 														<p><a class="btn btn-sm btn-primary" href="https://docs.google.com/document/d/19FePayvafuq4L8jLoFR02719owEG5SqMXMtNyEUvHak/edit?usp=sharing" role="button">Creative</a>          <a class="btn btn-sm btn-primary" href="https://docs.google.com/document/d/1qX7hDjBoqbKEPX3OBUdSeO913lqJjmFG-Rb2eHNBnjU/edit?usp=sharing" role="button">Technical</a></p>
 													</div>
 												</div>
 												<div class="item">
 													<img src="../images/nanoTransit1.jpg" alt="nanoTransit Video Game">
 													<div class="carousel-caption">
-														<p>This is a screenshot from nanoTransit, a video game produced for the 2014 New Mexico GameJam.  As a member of Intersection Games, we had 48-hours to create a video game, including all design components from scratch. My role was that of lead sound engineer. I recorded and edited all sound for the game. I also wrote the accompanying manual. This manual included factual information about human biology.</p>
+														<p>This is a screenshot from nanoTransit, a video game produced for the 2014 New Mexico GameJam.  As a member of Intersection Games, we had 48-hours to create a video game, including all design components from scratch. My role was that of lead sound engineer. I recorded and edited all sound for the game. I also wrote the accompanying manual. This manual included factual information about biology of the human body.</p>
 														<p><a class="btn btn-sm btn-primary" href="https://www.youtube.com/watch?v=TGTOkHYLYuc" role="button">Trailer</a>          <a class="btn btn-sm btn-primary" href="https://docs.google.com/file/d/0B9qDMX29N98SdHlQMW90WTRWWkk/" role="button">Download</a></p>
 													</div>
 											</div>
@@ -163,8 +163,8 @@
 				<footer>
 					<div class="container">
 						<div class="copyright text-center">
-							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+							<a href="https://www.linkedin.com/in/aliciabroadhurst"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+							<a href="https://twitter.com/aj_broadhurst"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
 							<br>
 							&copy; AJ Broadhurst 2016
 						</div>

@@ -141,8 +141,8 @@
 				<footer>
 					<div class="container">
 						<div class="copyright text-center">
-							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+							<a href="https://www.linkedin.com/in/aliciabroadhurst"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+							<a href="https://twitter.com/aj_broadhurst"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
 							<br>
 							&copy; AJ Broadhurst 2016
 						</div>
