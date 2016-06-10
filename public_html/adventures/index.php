@@ -125,7 +125,7 @@
 												<div class="item active">
 													<img src="http://placekitten.com/960/720" alt="...">
 													<div class="carousel-caption">
-														<p>Capstone will go here</p>
+														<p>This is the Capstone Project I worked on at Deep Dive Coding Bootcamp. 'BrewCrew' (Working Title) is a web application that allows users to review beers from local breweries, and then get personalized recommendations based on their rating and review history.</p>
 													</div>
 												</div>
 												<div class="item">
@@ -163,6 +163,9 @@
 				<footer>
 					<div class="container">
 						<div class="copyright text-center">
+							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+							<br>
 							&copy; AJ Broadhurst 2016
 						</div>
 					</div>

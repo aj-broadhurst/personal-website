@@ -82,12 +82,6 @@
 							</li>
 						</ul>
 					</div>
-					<div class="social-media-flex text-center">
-						<div id="social-media">
-							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
-						</div>
-					</div>
 				</div>
 			</div>
 
@@ -147,6 +141,9 @@
 				<footer>
 					<div class="container">
 						<div class="copyright text-center">
+							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+							<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+							<br>
 							&copy; AJ Broadhurst 2016
 						</div>
 					</div>
