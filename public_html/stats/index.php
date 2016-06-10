@@ -119,14 +119,14 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="well">
-											<p>With two degrees from the University of New Mexico, graduating with honors both times, I have a very strong academic background. The combined background in both the humanities, and the sciences leaves me very well-rounded in terms of general knowledge, and academic experiences.  I have presented papers at colloquiums, and attended numerous creative Critiques, as well as traveled abroad to perform fieldwork, and volunteered on campus in order to gain hands-on laboratory experience.</p>
-											<p>To further strengthen my skillset and resume, I attended the Spring 2016 CNM STEMulus Center Deep Dive Coding Bootcamp.  Learning full-stack web development in an immersive, intense 10-week program provided further life experience, and more exposure to development environments</p>
+											<p>&nbsp;&nbsp;&nbsp;With two degrees from the University of New Mexico, graduating with honors both times, I have a very strong academic background. The combined background in both the humanities, and the sciences leaves me very well-rounded in terms of general knowledge, and academic experiences.  I have presented papers at colloquiums, and attended numerous creative Critiques, as well as traveled abroad to perform fieldwork, and volunteered on campus in order to gain hands-on laboratory experience.</p>
+											<p>&nbsp;&nbsp;&nbsp;To further strengthen my skillset and resume, I attended the Spring 2016 CNM STEMulus Center Deep Dive Coding Bootcamp.  Learning full-stack web development in an immersive, intense 10-week program provided further life experience, and more exposure to development environments</p>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="well">
-											<p>My experiential background is also strong. I have experience in many different areas. When I was a volunteer at UNM, I was able to learn biological laboratory processes, such as DNA Extraction, PCR, and gel electrophoresis.  I have also worked in more technical environments.  During my internship at Ideum, I became familiar with QA processes, as well as furthered my technical troubleshooting skills.  </p>
-											<p>Being a member, as well as administrator for Intersection Games also provided more technical experience..</p>
+											<p>&nbsp;&nbsp;&nbsp;My experiential background is also strong. I have experience in many different areas. When I was a volunteer at UNM, I was able to learn biological laboratory processes, such as DNA Extraction, PCR, and gel electrophoresis.  I have also worked in more technical environments.  During my internship at Ideum, I became familiar with QA processes, as well as furthered my technical troubleshooting skills. I worked hands-on with the software providing technical support for users as well as writing user guides to improve user experience. Being a member, as well as administrator for Intersection Games also provided technical experience. I was able to work in a development pipeline on various required aspects while games were being developed.</p>
+											<p>&nbsp;I continue to seek out ways to grow in areas of interest, and further my skills.</p>
 										</div>
 									</div>
 								</div>
