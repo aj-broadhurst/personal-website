@@ -123,23 +123,23 @@
 											<!-- Wrapper for slides -->
 											<div class="carousel-inner" role="listbox">
 												<div class="item active">
-													<img src="http://placekitten.com/300/200" alt="...">
+													<img src="http://placekitten.com/960/720" alt="...">
 													<div class="carousel-caption">
 														<p>Capstone will go here</p>
 													</div>
 												</div>
 												<div class="item">
-													<img src="http://placekitten.com/500/400" alt="...">
+													<img src="../images/paperStack.jpg" alt="Writing Portfolio">
 													<div class="carousel-caption">
 														<p>Writing sample will go here</p>
-														<p><a class="btn btn-sm btn-primary" href="#" role="button">a button</a></p>
+														<p><a class="btn btn-sm btn-primary" href="https://docs.google.com/document/d/19FePayvafuq4L8jLoFR02719owEG5SqMXMtNyEUvHak/edit?usp=sharing" role="button">Creative</a>          <a class="btn btn-sm btn-primary" href="https://docs.google.com/document/d/1qX7hDjBoqbKEPX3OBUdSeO913lqJjmFG-Rb2eHNBnjU/edit?usp=sharing" role="button">Technical</a></p>
 													</div>
 												</div>
 												<div class="item">
 													<img src="../images/nanoTransit1.jpg" alt="nanoTransit Video Game">
 													<div class="carousel-caption">
 														<p>This is a screenshot from nanoTransit, a video game produced for the 2014 New Mexico GameJam.  As a member of Intersection Games, we had 48-hours to create a video game, including all design components from scratch. My role was that of lead sound engineer. I recorded and edited all sound for the game. I also wrote the accompanying manual. This manual included factual information about human biology.</p>
-														<p><a class="btn btn-sm btn-primary" href="https://www.youtube.com/watch?v=TGTOkHYLYuc" role="button">Trailer</a>     <a class="btn btn-sm btn-primary" href="https://docs.google.com/file/d/0B9qDMX29N98SdHlQMW90WTRWWkk/" role="button">Download</a></p>
+														<p><a class="btn btn-sm btn-primary" href="https://www.youtube.com/watch?v=TGTOkHYLYuc" role="button">Trailer</a>          <a class="btn btn-sm btn-primary" href="https://docs.google.com/file/d/0B9qDMX29N98SdHlQMW90WTRWWkk/" role="button">Download</a></p>
 													</div>
 											</div>
 
