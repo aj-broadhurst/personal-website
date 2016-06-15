@@ -123,9 +123,9 @@
 											<!-- Wrapper for slides -->
 											<div class="carousel-inner" role="listbox">
 												<div class="item active">
-													<img src="http://placekitten.com/960/720" alt="...">
+													<img src="../images/beerCompass.PNG" alt="Craft Beer Compass Screenshot">
 													<div class="carousel-caption">
-														<p>PLACEHOLDER IMAGE. This is the Capstone Project I worked on at Deep Dive Coding Bootcamp. "BrewCrew" (Working Title) is a web application that allows users to review beers from local breweries, and then get personalized recommendations based on their rating and review history.</p>
+														<p>Craft Beer Compass. This is the Capstone Project I worked on at Deep Dive Coding Bootcamp. Craft Beer Compass is a web application that allows users to review beers from local breweries, and then get personalized recommendations based on their rating and review history.</p>
 													</div>
 												</div>
 												<div class="item">
